@@ -14,18 +14,14 @@
 
 </div>
 
-<!--
-Add 4 page screenshots to assets/screenshots/ and uncomment:
-
 <p align="center">
-  <img src="assets/screenshots/01_overview.png" width="48%" />
-  <img src="assets/screenshots/02_regions_reps.png" width="48%" />
+  <img src="01_overview.png" width="48%" alt="Overview & Sales Trends" />
+  <img src="02_regions_reps.png" width="48%" alt="Regions & Reps" />
 </p>
 <p align="center">
-  <img src="assets/screenshots/03_product_categories.png" width="48%" />
-  <img src="assets/screenshots/04_customers_channels.png" width="48%" />
+  <img src="03_product_categories.png" width="48%" alt="Product Categories" />
+  <img src="04_customers_channels.png" width="48%" alt="Customers, Channels & Payments" />
 </p>
--->
 
 ---
 
